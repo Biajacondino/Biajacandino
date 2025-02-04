@@ -4,14 +4,13 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biajacandino&show_icons=true&count_private=true&hide_border=true&title_color=90cdf9&icon_color=90cdf9&text_color=c9d1d9&bg_color=0d1117" alt="Jônatas Gandra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biajacandino&layout=compact&hide_border=true&title_color=90cdf9&text_color=90cdf9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biajacondino&layout=compact&hide_border=true&title_color=90cdf9&text_color=90cdf9&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Biajacandino&bg_color=0d1117&color=90cdf9&line=ffff&point=90cdf9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/j%C3%B4natas-gandra-426062264/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<div align="center">
   <a href="https://www.instagram.com/jotinhg/" target="_blank"><img src="https://img.shields.io/badge/-instagram-f17ea1?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
