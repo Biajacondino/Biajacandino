@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biajacondino&show_icons=true&count_private=true&hide_border=true&title_color=f57c73&icon_color=f57c73&text_color=c9d1d9&bg_color=524f49" alt="Beatriz github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biajacondino&layout=compact&hide_border=true&title_color=f57c73&text_color=f57c73&bg_color=524f49" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biajacondino&layout=compact&hide_border=true&title_color=f57c73&text_color=ffffff&bg_color=524f49" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Biajacondino&bg_color=524f49&color=f57c73&line=ffff&point=f57c73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
